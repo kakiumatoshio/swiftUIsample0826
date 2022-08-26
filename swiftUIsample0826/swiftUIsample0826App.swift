@@ -3,7 +3,7 @@
 //  swiftUIsample0826
 //
 //  Created by 柿沼敏夫 on 2022/08/26.
-//
+//  swiftUI start
 
 import SwiftUI
 

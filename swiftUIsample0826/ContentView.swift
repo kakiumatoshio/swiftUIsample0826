@@ -4,6 +4,7 @@
 //
 //  Created by 柿沼敏夫 on 2022/08/26.
 // 0905 brunch 追加 suba追加
+// bunki0906
 
 import SwiftUI
 import CoreData
